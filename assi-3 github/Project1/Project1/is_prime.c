@@ -1,4 +1,4 @@
-#include "is_prime.h"
+#include "is_prime.h" // is_prime.h is included here because it contains the function prototype for is_prime
 
 const char* is_prime(int num) {
     static const char* NOT_PRIME = "Not Prime";
