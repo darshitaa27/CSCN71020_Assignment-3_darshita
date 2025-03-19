@@ -1,0 +1,6 @@
+﻿  Source.c
+  is_prime.c
+  Generating Code...
+C:\Users\darsh\OneDrive\Desktop\study material\3. software implementation\assi-3 github\Project1\Project1\Source.c(10,26): warning C4013: 'is_prime' undefined; assuming extern returning int
+C:\Users\darsh\OneDrive\Desktop\study material\3. software implementation\assi-3 github\Project1\Project1\Source.c(10,17): warning C4047: 'initializing': 'const char *' differs in levels of indirection from 'int'
+  Project1.vcxproj -> C:\Users\darsh\OneDrive\Desktop\study material\3. software implementation\assi-3 github\Project1\x64\Debug\Project1.lib
